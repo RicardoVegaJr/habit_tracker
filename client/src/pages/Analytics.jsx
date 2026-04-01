@@ -28,7 +28,7 @@ function Analytics({ tasks, stats }) {
         </article>
 
         <article className="analytics-card">
-          <span>High priority queue</span>
+          <span>High Priority Queue</span>
           <strong>{highPriorityTasks.length}</strong>
           <p>Tasks currently tagged as high priority.</p>
         </article>
